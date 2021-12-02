@@ -2,7 +2,7 @@
 
 # Code réalisé lords de calendrier de l'avent `advent of code` édition 2021. https://adventofcode.com/
 #
-# La réalisation à ce défi à été réalisé par Benjamin Courchesne le 01 décembre 2021. Les
+# La réalisation à ce défi à été réalisé par Benjamin Courchesne le 01 décembre 2021.
 
 input = File.read("./input.txt")
 
